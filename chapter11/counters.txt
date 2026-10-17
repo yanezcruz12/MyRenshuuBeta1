@@ -1,0 +1,13 @@
+階(かい),Counter for building floors,教室は二階にあります。,The classroom is on the second floor.
+回(かい),Counter for occurrences,週に三回泳ぎます。,I swim three times a week.
+番(ばん),Counter for order or position,私は二番です。,I am second in line.
+歳(さい),Counter for years of age,私は二十八歳です。,I am twenty-eight years old.
+分(ふん),Counter for minutes,駅まで五分かかります。,It takes five minutes to get to the station.
+時間(じかん),Counter for hours of duration,昨日は二時間勉強しました。,I studied for two hours yesterday.
+週間(しゅうかん),Counter for weeks of duration,日本に三週間滞在しました。,I stayed in Japan for three weeks.
+か月(かげつ),Counter for months of duration,日本に五か月留学する予定です。,I plan to study abroad in Japan for five months.
+年(ねん),Counter for years,日本語を三年勉強しています。,I have been studying Japanese for three years.
+軒(けん),Counter for houses and shops,この通りにはレストランが三軒あります。,There are three restaurants on this street.
+戸(こ),Counter for households or dwelling units,このアパートには部屋が十戸あります。,This apartment building has ten units.
+校(こう),Counter for schools,この町には小学校が二校あります。,There are two elementary schools in this town.
+名(めい),Formal counter for people,三名で予約しました。,I made a reservation for three people.

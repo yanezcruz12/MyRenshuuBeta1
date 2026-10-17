@@ -1,0 +1,24 @@
+健康（　　　　）、毎朝走っています。|I run every morning for my health.|のために
+家族（　　　　）、毎日働いています。|I work every day for my family.|のために
+日本語の勉強（　　　　）、新しい辞書を買いました。|I bought a new dictionary for studying Japanese.|のために
+日本で働く（　　　　）、日本語を勉強しています。|I study Japanese in order to work in Japan.|ために
+試験に合格する（　　　　）、毎日復習しています。|I review every day in order to pass the exam.|ために
+日本に旅行する（　　　　）、貯金しています。|I am saving money in order to travel to Japan.|ために
+これは、漢字を練習する（　　　　）アプリです。|This is an app for practicing kanji.|ための
+図書館には、学生が勉強する（　　　　）部屋があります。|The library has a room for students to study in.|ための
+外国語は、ほかの国の人と話す（　　　　）ツールです。|A foreign language is a tool for talking with people from other countries.|ための
+先生のアドバイス（　　　　）、作文を書き直しました。|I rewrote my essay based on my teacher's advice.|を踏まえて
+アンケートの結果（　　　　）、学校のルールを変えました。|We changed the school rules based on the survey results.|を踏まえて
+前回の試験の結果（　　　　）、勉強の方法を変えることにしました。|Based on my previous exam results, I decided to change my study method.|を踏まえて
+このボタンを押す（　　　　）、ドアが開きます。|When you press this button, the door opens.|と
+春になる（　　　　）、花が咲きます。|Whenever spring comes, flowers bloom.|と
+この道をまっすぐ行く（　　　　）、右に駅が見えます。|If you go straight along this road, you will see the station on your right.|と
+毎日練習（　　　　）、日本語が上手になります。|If you practice every day, your Japanese will improve.|すれば
+時間が（　　　　）、博物館にも行けます。|If you have time, you can also visit the museum.|あれば
+分からない言葉を（　　　　）、文の意味が分かります。|If you look up the words you do not understand, you will understand the sentence.|調べれば
+宿題が（　　　　）、映画を見ましょう。|When we finish our homework, let's watch a movie.|終わったら
+日本に（　　　　）、大阪を訪れたいです。|When I go to Japan, I want to visit Osaka.|行ったら
+家に（　　　　）、電話してください。|When you get home, please call me.|帰ったら
+日本に行く（　　　　）、このホテルがおすすめです。|If you are going to Japan, I recommend this hotel.|なら
+日本語を勉強したい（　　　　）、このアプリを使ってみてください。|If you want to study Japanese, try using this app.|なら
+明日試験がある（　　　　）、今日復習したほうがいいですよ。|If you have an exam tomorrow, you should review today.|なら

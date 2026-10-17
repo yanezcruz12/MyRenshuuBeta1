@@ -1,0 +1,27 @@
+先生は何と（　　　　）か。|What did the teacher say?|おっしゃいました
+先生は日本語を（　　　　）。|The teacher teaches Japanese.|お教えになります
+先生は日本へ（　　　　）。|The teacher will study abroad in Japan.|留学なさいます
+先生は日本語を（　　　　）。|The teacher is doing their best with Japanese.|がんばられます
+先生は日本文学を（　　　　）。|The teacher majors in Japanese literature.|専攻なさいます
+先生はここに（　　　　）。|The teacher sits here.|お座りになります
+先生は学生に（　　　　）。|The teacher talks to the student.|お話しかけになります
+先生は家に（　　　　）。|The teacher goes home.|お帰りになります
+先生は大学を（　　　　）。|The teacher graduates from college.|卒業なさいます
+先生はホテルに（　　　　）。|The teacher works at a hotel.|お勤めになります
+先生は休暇を（　　　　）。|The teacher takes vacation.|お取りになります
+先生は空港に（　　　　）。|The teacher arrives at the airport.|お着きになります
+先生は友達を（　　　　）。|The teacher welcomes a friend.|お迎えになります
+先生は財布を（　　　　）。|The teacher finds the wallet.|お見つけになります
+先生はホテルに（　　　　）。|The teacher stays at the hotel.|お泊まりになります
+先生はもう（　　　　）。|The teacher sleeps/rests already.|お休みになります
+先生は駅まで（　　　　）。|The teacher walks to the station.|お歩きになります
+先生は来月（　　　　）。|The teacher will move next month.|お引っ越しになります
+先生はとても（　　　　）。|The teacher is surprised.|驚かれます
+先生の考えは少し（　　　　）。|The teacher’s idea is different.|異なります
+先生はとても（　　　　）。|The teacher is young.|お若いです
+先生はとても（　　　　）。|The teacher is beautiful.|お美しいです
+先生は日本語が（　　　　）。|The teacher is good at Japanese.|お上手です
+先生はとても（　　　　）。|The teacher is famous.|有名でいらっしゃいます
+先生はとても（　　　　）。|The teacher is polite.|ていねいでいらっしゃいます
+先生の答えは（　　　　）。|The teacher’s answer is suitable.|適当でいらっしゃいます
+先生の考えも（　　　　）。|The teacher’s idea is the same.|同じでいらっしゃいます

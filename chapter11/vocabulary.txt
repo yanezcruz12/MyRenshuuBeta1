@@ -1,0 +1,35 @@
+発明(はつめい),invention,この発明は私たちの生活を便利にします。,This invention makes our lives more convenient.
+物語(ものがたり),story; tale,若い料理人についての物語を読みました。,I read a story about a young chef.
+〜に親しまれている(〜にしたしまれている),to be popular among; to be familiar and well liked,このレストランは地元の人々に親しまれています。,This restaurant is popular among local people.
+協会(きょうかい),association,日本語を勉強する人のための協会に入りました。,I joined an association for people who study Japanese.
+全〜(ぜん〜),all; whole,この歌は全世界で知られています。,This song is known throughout the world.
+消費(しょうひ),consumption,電気の消費を減らしたいです。,I want to reduce my consumption of electricity.
+億(おく),one hundred million,この建物は一億円かかりました。,This building cost one hundred million yen.
+〜食(〜しょく),counter for meals or servings,インスタントラーメンを五食買いました。,I bought five servings of instant ramen.
+続ける(つづける),to continue,卒業後も日本語の勉強を続けたいです。,I want to continue studying Japanese after graduation.
+量(りょう),quantity; amount,塩の量を減らしてください。,Please reduce the amount of salt.
+袋(ふくろ),bag,この袋に野菜を入れてください。,Please put the vegetables in this bag.
+値段(ねだん),price,この豆腐の値段はいくらですか。,What is the price of this tofu?
+若者(わかもの),young people,このカフェは若者に人気があります。,This cafe is popular among young people.
+一人暮らし(ひとりぐらし),living alone,大学に入った時に一人暮らしを始めました。,I started living alone when I entered university.
+現在(げんざい),now; at present,現在は大学で日本語を勉強しています。,I am currently studying Japanese at university.
+東南アジア(とうなんアジア),Southeast Asia,いつか東南アジアに旅行したいです。,I want to travel to Southeast Asia someday.
+南米(なんべい),South America,友達は南米に住んでいます。,My friend lives in South America.
+〜か国(〜かこく),counter for countries,三か国に旅行したことがあります。,I have traveled to three countries.
+戦後(せんご),postwar; after the war,授業で日本の戦後の生活について勉強しました。,I studied postwar life in Japan in class.
+屋台(やたい),street stall; food stand,屋台でたこ焼きを食べました。,I ate takoyaki at a street stall.
+列(れつ),line; queue,あのレストランの前に長い列があります。,There is a long line in front of that restaurant.
+光景(こうけい),scene; sight,あの日見た光景は決して忘れません。,I will never forget the scene I saw that day.
+失敗(しっぱい),failure,その失敗から多くのことを学びました。,I learned a lot from that failure.
+くり返す(くりかえす),to repeat,この文を三回くり返してください。,Please repeat this sentence three times.
+商品化する(しょうひんかする),to commercialize; to bring to market,この会社は新しい種類のラーメンを商品化する予定です。,This company plans to commercialize a new kind of ramen.
+成功(せいこう),success,イベントは大成功でした。,The event was a great success.
+数(かず),number,週末はお客さんの数が増えます。,The number of customers increases on weekends.
+急速に(きゅうそくに),rapidly,町の人口が急速に増えています。,The town's population is increasing rapidly.
+競争(きょうそう),competition,この二つのレストランの間には競争があります。,There is competition between these two restaurants.
+激しい(はげしい),intense; severe,雨が激しかったので出かけられませんでした。,I could not go out because the rain was heavy.
+〜に目を向ける(〜にめをむける),to turn one's attention to,地域の問題に目を向けたいです。,I want to turn my attention to problems in my community.
+国境(こっきょう),national border,バスで国境を越えました。,We crossed the border by bus.
+得る(える),to obtain; to gain,ボランティアを通して貴重な経験を得ました。,I gained valuable experience through volunteering.
+広まる(ひろまる),to spread,そのニュースはすぐに広まりました。,The news spread quickly.
+支える(ささえる),to support,家族は私の学生生活を支えてくれています。,My family supports my life as a student.

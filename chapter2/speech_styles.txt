@@ -1,0 +1,13 @@
+ぞ,strongly masculine sentence ending,行くぞ。,Let’s go!
+ぜ,strongly masculine sentence ending,頑張るぜ。,I’m going to do my best!
+かい,masculine casual question ending,元気かい。,Are you doing well?
+～ないか,masculine casual invitation or suggestion,一緒に行かないか。,Won’t you come with me?
+よ,moderately masculine sentence ending,行くよ。,I’m going.
+だよ,informal emphasis,本当だよ。,It’s true.
+だよね,informal agreement seeking,今日は寒いだよね。,It’s cold today, isn’t it?
+の,moderately feminine sentence ending,行くの。,I’m going.
+わ,strongly feminine sentence ending,行くわ。,I’m going.
+わよ,strongly feminine emphasis,本当だわよ。,It’s really true.
+わね,strongly feminine agreement seeking,きれいだわね。,It’s beautiful, isn’t it?
+なの,feminine noun or な-adjective ending,日本人なの。,I am Japanese.
+かしら,feminine expression meaning “I wonder”,行くかしら。,I wonder if they will go.

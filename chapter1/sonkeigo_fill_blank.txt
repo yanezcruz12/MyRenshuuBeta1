@@ -1,0 +1,27 @@
+私は田中と（　　　　）。|My name is Tanaka.|申します
+私は日本語を（　　　　）。|I teach Japanese.|お教えします
+私は日本へ（　　　　）。|I will study abroad in Japan.|留学いたします
+私は日本語を（　　　　）。|I will do my best with Japanese.|がんばります
+私は日本文学を（　　　　）。|I major in Japanese literature.|専攻いたします
+私はここに（　　　　）。|I will sit here.|お座りします
+私は先生に（　　　　）。|I talk to the teacher.|お話しかけします
+私は家に（　　　　）。|I go home.|帰ります
+私は大学を（　　　　）。|I graduate from college.|卒業いたします
+私はホテルに（　　　　）。|I work at a hotel.|お勤めします
+私は休暇を（　　　　）。|I take vacation.|お取りします
+私は空港に（　　　　）。|I arrive/go to the airport.|参ります
+私は先生を（　　　　）。|I welcome/meet the teacher.|お迎えします
+私は財布を（　　　　）。|I find the wallet.|お見つけします
+私は友達を家に（　　　　）。|I let my friend stay overnight.|お泊めします
+私は少し（　　　　）。|I will rest/sleep a little.|休ませていただきます
+私は駅まで（　　　　）。|I will walk to the station.|歩かせていただきます
+私は来月（　　　　）。|I will move next month.|引っ越しいたします
+私はとても（　　　　）。|I am surprised.|驚いております
+私の考えは少し（　　　　）。|My idea is different.|違っております
+私はまだ（　　　　）。|I am young.|若くございます
+これはとても（　　　　）。|This is beautiful.|美しくございます
+私はまだ（　　　　）。|I am not good yet.|上手ではございません
+私はまだ（　　　　）。|I am not famous.|有名ではございません
+私はいつも（　　　　）。|I am always polite.|ていねいでございます
+私の答えは（　　　　）。|My answer is suitable.|適当でございます
+私の考えも（　　　　）。|My idea is the same.|同じでございます

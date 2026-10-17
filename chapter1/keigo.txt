@@ -1,0 +1,28 @@
+申す,申します,私はクルスと申します。,My name is Cruz.
+教える,お教えします,日本語をお教えします。,I will teach Japanese.
+留学する,留学いたします,来年日本へ留学いたします。,I will study abroad in Japan next year.
+がんばる,がんばります,これからもがんばります。,I will continue to do my best.
+専攻する,専攻いたします,日本語を専攻いたしております。,I am majoring in Japanese.
+座る,お座りします,どうぞこちらにお座りください。,Please have a seat here.
+話しかける,お話しかけします,後ほどお話しかけします。,I will speak with you later.
+帰る,帰ります,それでは帰ります。,Well then, I will return home.
+卒業する,卒業いたします,来年大学を卒業いたします。,I will graduate from university next year.
+勤める,お勤めします,銀行にお勤めしております。,I work at a bank.
+取る,お取りします,資料をお取りします。,I will get the materials for you.
+着く,参ります,午後三時に参ります。,I will arrive at three o'clock.
+迎える,お迎えします,駅までお迎えします。,I will come pick you up at the station.
+見つかる,見つかっております,お探しの本は見つかっております。,The book you are looking for has been found.
+泊める,お泊めします,友人を家にお泊めします。,I will let my friend stay overnight.
+眠る,休ませていただきます,少し休ませていただきます。,Please allow me to rest for a moment.
+歩く,歩かせていただきます,先に歩かせていただきます。,Please allow me to walk ahead.
+見つける,お見つけします,すぐにお見つけします。,I will find it for you immediately.
+引っ越す,引っ越しいたします,来月引っ越しいたします。,I will move next month.
+びっくりする,驚いております,その知らせに驚いております。,I am surprised by that news.
+違う,違っております,少し違っております。,It is slightly different.
+若い,若くございます,まだ若くございます。,I am still young.
+美しい,美しくございます,こちらは美しくございます。,This is beautiful.
+上手（な）,上手でございます,日本語が上手でございます。,My Japanese is skillful.
+有名（な）,有名でございます,京都は有名でございます。,Kyoto is famous.
+ていねい（な）,ていねいでございます,とてもていねいでございます。,It is very polite.
+適当（な）,適当でございます,こちらが適当でございます。,This is appropriate.
+同じ,同じでございます,私も同じでございます。,I am the same as well.

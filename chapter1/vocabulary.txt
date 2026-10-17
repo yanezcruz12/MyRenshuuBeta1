@@ -1,0 +1,45 @@
+出身地(しゅっしんち),hometown; place of origin,私の出身地(しゅっしんち)は京都です。,My hometown is Kyoto.
+地理(ちり),geography,学校で日本の地理(ちり)を勉強しています。,I am studying the geography of Japan at school.
+人口(じんこう),population,この町の人口(じんこう)は約(やく)十万人です。,The population of this town is about 100,000.
+首都(しゅと),capital city,東京は日本の首都(しゅと)です。,Tokyo is the capital of Japan.
+気候(きこう),climate,北海道は東京と気候(きこう)がちがいます。,Hokkaido has a different climate from Tokyo.
+大陸(たいりく),continent; mainland,アジアは世界で最(もっと)も大きい大陸(たいりく)です。,Asia is the largest continent in the world.
+島(しま),island,日本にはたくさんの島があります。,Japan has many islands.
+以上(いじょう),more than; at least; above,この町には百以上(いじょう)のレストランがあります。,There are more than 100 restaurants in this town.
+約(やく),approximately; about,駅まで約(やく)十分かかります。,It takes about ten minutes to the station.
+全体(ぜんたい),whole; entirety; overall,日本の全体(ぜんたい)の約(やく)70％が山です。,About 70% of Japan is mountainous.
+都市(とし),city; urban area,東京は世界でも大きな都市(とし)の一つです。,Tokyo is one of the world's major cities.
+その他(そのた（ほか）),others; other things,本やノート、その他の物を買いました。,I bought books, notebooks, and other things.
+戦争(せんそう),war,戦争(せんそう)のない世界をねがっています。,I hope for a world without war.
+恐(おそろしい)ろしい,frightening; terrifying; dreadful,その戦争(せんそう)はとても恐(おそ)ろしいものでした。,That war was very frightening.
+平和(へいわ),peace; peaceful,世界の平和(へいわ)について考えました。,I thought about world peace.
+伝(つたえる)える,to tell; convey; communicate,家族にこのニュースを伝(つた)えました。,I told my family this news.
+差(さ),difference; gap,二つの国の気温(きおん)には大きな差(さ)があります。,There is a big difference in temperature between the two countries.
+名所(めいしょ),famous place; sightseeing spot,京都には有名な名所(めいしょ)がたくさんあります。,Kyoto has many famous sightseeing spots.
+終(おわり)わり,end; ending,夏休みの終わりに旅行しました。,I traveled at the end of summer vacation.
+楽(たのしむ)しむ,to enjoy,週末は友達と旅行を楽(たの)しみました。,I enjoyed traveling with my friends over the weekend.
+最(もっとも)も,most; the most,富士山は日本(にほん)で最(もっと)も高い山です。,Mt. Fuji is the highest mountain in Japan.
+美(うつくしい)しい,beautiful,この島は海がとても美しいです。,The sea around this island is very beautiful.
+お城(おしろ),castle,姫路(ひめじ)のお城(しろ)を見学(けんがく)しました。,I visited Himeji Castle.
+壁(かべ),wall,この壁(かべ)は五百年前に作られました。,This wall was built 500 years ago.
+残(のこる)る,to remain; be left,古い建物が今も町に残(のこ)っています。,Old buildings still remain in the town.
+形(かたち),shape; form,この島はおもしろい形(かたち)をしています。,This island has an interesting shape.
+～と言えば,speaking of; when it comes to,日本の山と言えば、富士山が有名です。,Speaking of mountains in Japan, Mt. Fuji is famous.
+目的(もくてき),purpose; objective,今回の旅行の目的(もくてき)は京都を見学(けんがく)することです。,The purpose of this trip is to see Kyoto.
+景色(けしき),scenery; view,山の上からの景色(けしき)はとてもきれいでした。,The view from the top of the mountain was very beautiful.
+特(とくに)に,especially; particularly,京都が好きです。特に秋がきれいです。,I like Kyoto. Autumn is especially beautiful.
+～階(かい),floor; story,レストランはビルの五階にあります。,The restaurant is on the fifth floor of the building.
+見学(けんがく),tour; observation; visit for study,午後、工場(こうじょう)を見学(けんがく)しました。,We toured the factory in the afternoon.
+初(はじめに)めに,first; at first; to begin with,初めに、今日のよていを説明します。,First, I will explain today's schedule.
+地方(ちほう),region; area; district,この地方(ちほう)は冬に雪がたくさん降ります。,It snows a lot in this region in winter.
+周(まわり)り,surroundings; around,学校の周(まわ)りには店がたくさんあります。,There are many shops around the school.
+内容(ないよう),content; details,授業の内容(ないよう)はとてもおもしろかったです。,The content of the class was very interesting.
+名物(めいぶつ),local specialty; famous product,大阪の名物(めいぶつ)と言えば、たこ焼きです。,Speaking of Osaka specialties, takoyaki is famous.
+伝統的(でんとうてきな)な,traditional,京都には伝統的(でんとうてき)な建物がたくさんあります。,There are many traditional buildings in Kyoto.
+行事(ぎょうじ),event; ceremony; annual event,夏には地域(ちいき)の行事(ぎょうじ)がたくさんあります。,There are many local events in summer.
+そういう,that kind of; like that,私はそういう考え方が好きです。,I like that kind of way of thinking.
+そんな,such; that kind of,そんな話は聞いたことがありません。,I have never heard such a story.
+自然(しぜん)な,nature,北海道には豊(ゆた)かな自然(しぜん)があります。,Hokkaido has abundant nature.
+厳(きびしい)しい,severe; harsh; strict,北海道の冬はとても厳(きび)しいです。,Winters in Hokkaido are very harsh.
+気持(きもち)ち,feeling; mood,海を見ると、気持(きも)ちが落ち着きます。,Looking at the ocean makes me feel calm.
+湿度(しつど),humidity,日本の夏は気温(きおん)だけでなく、湿度(しつど)も高(たか)いです。,In Japan, not only the temperature but also the humidity is high in summer.

@@ -1,0 +1,49 @@
+感染(かんせん),infection,インフルエンザの感染(かんせん)を防(ふせ)ぐことが大切(たいせつ)です。,It is important to prevent the spread of influenza.
+防止(ぼうし),prevention,事故(じこ)の防止(ぼうし)のために、ルールを守(まも)ります。,We follow the rules to prevent accidents.
+３密(さんみつ),3 Cs: crowded places, close-contact settings, confined/enclosed spaces,感染(かんせん)を防(ふせ)ぐために、３密(さんみつ)を避(さ)けます。,To prevent infection, we avoid the 3 Cs.
+流行(りゅうこう),epidemic,冬(ふゆ)になると、インフルエンザが流行(りゅうこう)することがあります。,Influenza sometimes spreads in winter.
+流行語(りゅうこうご),vogue word / buzzword,毎年(まいとし)、新(あたら)しい流行語(りゅうこうご)が生(う)まれます。,Every year, new buzzwords are created.
+〜を始(はじ)めとした,starting with ~,東京(とうきょう)を始(はじ)めとした大(おお)きな都市(とし)には、多(おお)くの人(ひと)が住(す)んでいます。,Many people live in large cities, starting with Tokyo.
+理解(りかい)する,to understand,先生(せんせい)の説明(せつめい)を聞(き)いて、文法(ぶんぽう)を理解(りかい)しました。,I listened to the teacher's explanation and understood the grammar.
+こまめに,frequently,部屋(へや)をこまめに換気(かんき)しています。,I ventilate the room frequently.
+換気(かんき),ventilation,教室(きょうしつ)の換気(かんき)のために、窓(まど)を開(あ)けました。,I opened the window to ventilate the classroom.
+マメ（豆(まめ)）,bean,スープに豆(まめ)を入(い)れました。,I put beans in the soup.
+影響(えいきょう),influence / effect,天気(てんき)の影響(えいきょう)で、電車(でんしゃ)が遅(おく)れました。,The train was delayed because of the weather's effects.
+生活(せいかつ)に困(こま)る,to become poor / have difficulty with daily life,仕事(しごと)がなくなって、生活(せいかつ)に困(こま)りました。,I lost my job and had difficulty with daily life.
+給付金(きゅうふきん),benefit,市役所(しやくしょ)で給付金(きゅうふきん)について聞(き)きました。,I asked about the benefit at city hall.
+手続(てつづ)き,procedure,大学(だいがく)の手続(てつづ)きをしました。,I completed the university procedure.
+相談(そうだん),consultation,先生(せんせい)に勉強(べんきょう)について相談(そうだん)しました。,I consulted my teacher about studying.
+市役所(しやくしょ),city hall,書類(しょるい)を出(だ)すために市役所(しやくしょ)へ行(い)きました。,I went to city hall to submit documents.
+（場所(ばしょ)）を訪(おとず)れる,to visit (a place),旅行(りょこう)で白老(しらおい)を訪(おとず)れたいです。,I want to visit Shiraoi on a trip.
+郵送(ゆうそう),mail,この書類(しょるい)は郵送(ゆうそう)で送(おく)ることができます。,This document can be sent by mail.
+申請(しんせい),application,奨学金(しょうがくきん)の申請(しんせい)をしました。,I submitted a scholarship application.
+電子(でんし),electronic,電子(でんし)メールで先生(せんせい)に連絡(れんらく)しました。,I contacted my teacher by email.
+書類(しょるい),paper / document,先生(せんせい)に書類(しょるい)を出(だ)しました。,I gave the document to my teacher.
+拝見(はいけん)いたします,to see (modest expression),先生(せんせい)のレポートを拝見(はいけん)いたします。,I will look at the teacher's report.
+簡単(かんたん)な,easy / simple,もっと簡単(かんたん)な日本語(にほんご)で説明(せつめい)してください。,Please explain it in simpler Japanese.
+考(かんが)え出(だ)す,to come up with / invent,新(あたら)しい勉強方法(べんきょうほうほう)を考(かんが)え出(だ)しました。,I came up with a new study method.
+大事(だいじ),important,毎日(まいにち)練習(れんしゅう)することが大事(だいじ)です。,Practicing every day is important.
+示(しめ)す,to show,このグラフは人口(じんこう)の変化(へんか)を示(しめ)しています。,This graph shows changes in population.
+一階(いっかい),first floor,図書館(としょかん)の一階(いっかい)で勉強(べんきょう)します。,I study on the first floor of the library.
+入口(いりぐち),entrance,入口(いりぐち)で友達(ともだち)を待(ま)っています。,I am waiting for my friend at the entrance.
+徒歩(とほ),on foot,駅(えき)から大学(だいがく)まで徒歩(とほ)で十分(じゅっぷん)です。,It is ten minutes on foot from the station to the university.
+表現(ひょうげん),expression,この表現(ひょうげん)は会話(かいわ)でよく使(つか)います。,This expression is often used in conversation.
+伝(つた)わる,to come across / be conveyed,簡単(かんたん)に話(はな)すと、意味(いみ)が伝(つた)わりやすいです。,If you speak simply, the meaning is easier to convey.
+進(すす)める,to advance something (transitive),先生(せんせい)は授業(じゅぎょう)をゆっくり進(すす)めました。,The teacher moved the class forward slowly.
+自治体(じちたい),local government,自治体(じちたい)は外国人(がいこくじん)のために情報(じょうほう)を出(だ)しています。,The local government provides information for foreigners.
+阪神(はんしん)・淡路大震災(あわじだいしんさい),Great Hanshin-Awaji Earthquake,阪神(はんしん)・淡路大震災(あわじだいしんさい)は1995年(ねん)に起(お)こりました。,The Great Hanshin-Awaji Earthquake occurred in 1995.
+情報(じょうほう),information,インターネットで旅行(りょこう)の情報(じょうほう)を調(しら)べました。,I looked up travel information on the internet.
+被害(ひがい),damage,地震(じしん)で大(おお)きな被害(ひがい)が出(で)ました。,The earthquake caused major damage.
+その経験(けいけん)を踏(ふ)まえて,based on that experience,その経験(けいけん)を踏(ふ)まえて、新(あたら)しい計画(けいかく)を作(つく)りました。,Based on that experience, we made a new plan.
+求(もと)める,to seek,多(おお)くの人(ひと)が分(わ)かりやすい情報(じょうほう)を求(もと)めています。,Many people are seeking easy-to-understand information.
+身近(みぢか)なところ,surroundings,身近(みぢか)なところにも日本語(にほんご)の表示(ひょうじ)があります。,There are Japanese signs in our surroundings too.
+避難場所(ひなんばしょ),shelter / evacuation area,地震(じしん)の前(まえ)に避難場所(ひなんばしょ)を確認(かくにん)します。,I check the evacuation area before an earthquake.
+逃(に)げる,to escape,危(あぶ)ない時(とき)は、安全(あんぜん)な場所(ばしょ)へ逃(に)げてください。,When it is dangerous, please escape to a safe place.
+理解(りかい)を深(ふか)める,to deepen one's understanding,本(ほん)を読(よ)んで、アイヌ文化(ぶんか)への理解(りかい)を深(ふか)めたいです。,I want to deepen my understanding of Ainu culture by reading books.
+協力(きょうりょく),cooperation,みんなの協力(きょうりょく)が必要(ひつよう)です。,Everyone's cooperation is necessary.
+唾(つば)が飛(と)ぶ,to spit / saliva flies,せきをすると、唾(つば)が飛(と)ぶことがあります。,When you cough, saliva can fly.
+進(すす)む,something moves forward (intransitive),プロジェクトが少(すこ)しずつ進(すす)んでいます。,The project is moving forward little by little.
+取(と)り組(く)み,work / tackling / initiative,大学(だいがく)では新(あたら)しい取(と)り組(く)みを始(はじ)めました。,The university started a new initiative.
+拡大(かくだい),expansion,感染(かんせん)の拡大(かくだい)を防(ふせ)ぐことが大切(たいせつ)です。,It is important to prevent the spread of infection.
+社会(しゃかい),society,みんなが暮(く)らしやすい社会(しゃかい)にしたいです。,I want to make society easier for everyone to live in.
+繋(つな)がる,to be connected,毎日(まいにち)の練習(れんしゅう)は上達(じょうたつ)に繋(つな)がります。,Daily practice leads to improvement.

@@ -1,0 +1,11 @@
+ぱくぱく,Eating alot of small things(often little kids),子どもはおにぎりをぱくぱく食べています。,The child is eating the rice ball bite after bite.
+もぐもぐ,Mouth is full,子どもはご飯をもぐもぐ食べています。,The child is chewing their food.
+もりもり,eating alot (often teenage boys),弟はご飯をもりもり食べています。,My younger brother is eating with a big appetite.
+むしゃむしゃ,Making a mess (negative),男の人は野菜をむしゃむしゃ食べています。,The man is munching on vegetables.
+くちゃくちゃ,Opening mouth and making sound (negative),くちゃくちゃ音を立てて食べるのはよくないです。,It is not good to eat while making smacking noises.
+ごくごく,to drink a lot and fast,飲み物をごくごく飲んでいます。,They are drinking a lot quickly.
+がぶがぶ,to drink too much or gulp messily,飲み物をがぶがぶ飲んでいます。,They are gulping down the drink.
+グビグビ,sound of drinking beer, ビールを飲む音
+ずずーっ,sound of slurping noodles, そば類をすする音
+せっせ,action of doing something diligently, 何かを一生懸命する動作
+シーハーシーハー,sound of using a toothpick, つまようじを使う音

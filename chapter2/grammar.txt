@@ -1,0 +1,39 @@
+〜必要がある（ひつようがある）,need to do,試験(しけん)の前(まえ)に復習(ふくしゅう)する必要(ひつよう)があります。,I need to review before the exam.
+〜必要はない（ひつようはない）,do not need to do,明日(あした)は学校(がっこう)に行(い)く必要(ひつよう)はありません。,I do not need to go to school tomorrow.
+〜必要がある（ひつようがある）,need to do,相手(あいて)によって話(はな)し方(かた)を変(か)える必要(ひつよう)があります。,You need to change how you speak depending on whom you are talking to.
+〜は〜の一つだ（ひとつだ）,is one of,大阪(おおさか)は私(わたし)が好(す)きな町(まち)の一(ひと)つです。,Osaka is one of the cities I like.
+〜は〜の一人だ（ひとりだ）,is one of the people,田中(たなか)さんは私(わたし)の友達(ともだち)の一人(ひとり)です。,Tanaka is one of my friends.
+〜は〜の一つだ（ひとつだ）,is one of,聞(き)き取(と)りは日本語(にほんご)の勉強(べんきょう)で難(むずか)しいことの一(ひと)つです。,Listening comprehension is one of the difficult parts of studying Japanese.
+〜にとって,for; from someone's perspective,私(わたし)にとって日本語(にほんご)の勉強(べんきょう)は大切(たいせつ)です。,Studying Japanese is important to me.
+〜にとって,for; from someone's perspective,学生(がくせい)にとってこの辞書(じしょ)は便利(べんり)です。,This dictionary is useful for students.
+〜にとって,for; from someone's perspective,私(わたし)にとって日本(にほん)での旅行(りょこう)は忘(わす)れられない経験(けいけん)でした。,Traveling in Japan was an unforgettable experience for me.
+また,also; additionally,このアプリは便利(べんり)です。また無料(むりょう)で使(つか)えます。,This app is useful. Additionally you can use it for free.
+また,also; additionally,この町(まち)には博物館(はくぶつかん)があります。また大(おお)きな公園(こうえん)もあります。,This town has a museum. It also has a large park.
+また,also; additionally,日本語(にほんご)の授業(じゅぎょう)で文法(ぶんぽう)を学(まな)びます。また会話(かいわ)も練習(れんしゅう)します。,We learn grammar in Japanese class. We also practice conversation.
+〜の代わりに（かわりに）,instead of; in place of,コーヒーの代(か)わりにお茶(ちゃ)を飲(の)みました。,I drank tea instead of coffee.
+〜の代わりに（かわりに）,instead of; in place of,今日(きょう)は母(はは)の代(か)わりに私(わたし)が晩(ばん)ご飯(はん)を作(つく)りました。,Today I made dinner instead of my mother.
+〜の代わりに（かわりに）,instead of; in place of,現金(げんきん)の代(か)わりにカードで払(はら)いました。,I paid by card instead of cash.
+〜ために,in order to; for,日本(にほん)で働(はたら)くために日本語(にほんご)を勉強(べんきょう)しています。,I study Japanese in order to work in Japan.
+〜のために,for; for the benefit of,健康(けんこう)のために毎朝(まいあさ)走(はし)っています。,I run every morning for my health.
+〜ための,for the purpose of,これは漢字(かんじ)を練習(れんしゅう)するためのアプリです。,This is an app for practicing kanji.
+AかBか,whether A or B; either A or B,電車(でんしゃ)で行(い)くかバスで行(い)くかまだ決(き)めていません。,I have not decided whether to go by train or by bus.
+AかBか,whether A or B; either A or B,この答(こた)えが正(ただ)しいか間違(まちが)っているか分(わ)かりません。,I do not know whether this answer is correct or incorrect.
+AかBか,whether A or B; either A or B,週末(しゅうまつ)は図書館(としょかん)で勉強(べんきょう)するか家(いえ)で勉強(べんきょう)するかします。,This weekend I will study either at the library or at home.
+〜が見られる（みられる）,can be seen; can be observed,この作文(さくぶん)には文法(ぶんぽう)の間違(まちが)いが見(み)られます。,Grammar mistakes can be observed in this essay.
+〜が見られる（みられる）,can be seen; can be observed,二(ふた)つの国(くに)の食文化(しょくぶんか)に違(ちが)いが見(み)られます。,Differences can be observed in the food cultures of the two countries.
+〜が見られる（みられる）,can be seen; can be observed,最近(さいきん)は学生(がくせい)の話(はな)し方(かた)に変化(へんか)が見(み)られます。,Recently changes can be observed in how students speak.
+〜場合は（ばあいは）,if; in the case of,分(わ)からない場合(ばあい)は先生(せんせい)に聞(き)いてください。,If you do not understand please ask the teacher.
+〜場合は（ばあいは）,if; in the case of,雨(あめ)の場合(ばあい)はイベントを中止(ちゅうし)します。,In the case of rain we will cancel the event.
+〜場合には（ばあいには）,if; in the case of,地震(じしん)の場合(ばあい)にはエレベーターを使(つか)わないでください。,In the case of an earthquake please do not use the elevator.
+〜なければならない,must; have to,明日(あした)までに宿題(しゅくだい)を出(だ)さなければなりません。,I must submit my homework by tomorrow.
+〜なくてはいけない,must; have to,明日(あした)は早(はや)く起(お)きなくてはいけません。,I have to wake up early tomorrow.
+〜なきゃならない,must; have to; casual,試験(しけん)があるから勉強(べんきょう)しなきゃならない。,I have to study because I have an exam.
+AではなくてB,not A but B,私(わたし)の専攻(せんこう)は歴史(れきし)ではなくて日本語(にほんご)です。,My major is not history but Japanese.
+AじゃなくてB,not A but B,待(ま)ち合(あ)わせは今日(きょう)じゃなくて明日(あした)です。,We are meeting tomorrow rather than today.
+AではなくB,not A but B,これは先生(せんせい)の本(ほん)ではなく私(わたし)の本(ほん)です。,This is my book rather than the teacher's book.
+何人か（なんにんか）,some people; several people,何人(なんにん)かの学生(がくせい)が教室(きょうしつ)に残(のこ)っています。,Several students are staying in the classroom.
+何回か（なんかいか）,a few times; several times,日本(にほん)に何回(なんかい)か行(い)ったことがあります。,I have been to Japan several times.
+いくつか,some; several,先生(せんせい)に質問(しつもん)をいくつかしました。,I asked the teacher several questions.
+〜でしょう↗,right?; isn't it?,この料理(りょうり)はおいしいでしょう？,This food is delicious isn't it?
+〜でしょう↗,right?; didn't you?,昨日(きのう)も図書館(としょかん)で勉強(べんきょう)したでしょう？,You studied at the library yesterday too didn't you?
+〜だろう↗,right?; aren't you?; casual,明日(あした)のイベントに行(い)くだろう？,You are going to tomorrow's event right?

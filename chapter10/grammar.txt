@@ -1,0 +1,24 @@
+名詞＋のために,for; for the benefit of,健康(けんこう)のために毎朝(まいあさ)走(はし)っています。,I run every morning for my health.
+名詞＋のために,for; for the benefit of,家族(かぞく)のために毎日(まいにち)働(はたら)いています。,I work every day for my family.
+名詞＋のために,for; for the benefit of,日本語(にほんご)の勉強(べんきょう)のために新(あたら)しい辞書(じしょ)を買(か)いました。,I bought a new dictionary for studying Japanese.
+動詞＋ために,in order to,日本(にほん)で働(はたら)くために日本語(にほんご)を勉強(べんきょう)しています。,I study Japanese in order to work in Japan.
+動詞＋ために,in order to,試験(しけん)に合格(ごうかく)するために毎日(まいにち)復習(ふくしゅう)しています。,I review every day in order to pass the exam.
+動詞＋ために,in order to,日本(にほん)に旅行(りょこう)するために貯金(ちょきん)しています。,I am saving money in order to travel to Japan.
+動詞＋ための＋名詞,for the purpose of doing something,これは漢字(かんじ)を練習(れんしゅう)するためのアプリです。,This is an app for practicing kanji.
+動詞＋ための＋名詞,for the purpose of doing something,図書館(としょかん)には学生(がくせい)が勉強(べんきょう)するための部屋(へや)があります。,The library has a room for students to study in.
+動詞＋ための＋名詞,for the purpose of doing something,外国語(がいこくご)はほかの国(くに)の人(ひと)と話(はな)すためのツールです。,A foreign language is a tool for talking with people from other countries.
+〜を踏まえて（ふまえて）,based on; taking into account,先生(せんせい)のアドバイスを踏(ふ)まえて作文(さくぶん)を書(か)き直(なお)しました。,I rewrote my essay based on my teacher's advice.
+〜を踏まえて（ふまえて）,based on; taking into account,アンケートの結果(けっか)を踏(ふ)まえて学校(がっこう)のルールを変(か)えました。,We changed the school rules based on the survey results.
+〜を踏まえて（ふまえて）,based on; taking into account,前回(ぜんかい)の試験(しけん)の結果(けっか)を踏(ふ)まえて勉強(べんきょう)の方法(ほうほう)を変(か)えることにしました。,I decided to change my study method based on my previous exam results.
+〜と,when; whenever; automatic result,このボタンを押(お)すとドアが開(あ)きます。,When you press this button the door opens.
+〜と,when; whenever; automatic result,春(はる)になると花(はな)が咲(さ)きます。,Whenever spring comes flowers bloom.
+〜と,when; whenever; automatic result,この道(みち)をまっすぐ行(い)くと右(みぎ)に駅(えき)が見(み)えます。,If you go straight along this road you will see the station on your right.
+〜ば,if; conditional,毎日(まいにち)練習(れんしゅう)すれば日本語(にほんご)が上手(じょうず)になります。,If you practice every day your Japanese will improve.
+〜ば,if; conditional,時間(じかん)があれば博物館(はくぶつかん)にも行(い)けます。,If you have time you can also visit the museum.
+〜ば,if; conditional,分(わ)からない言葉(ことば)を調(しら)べれば文(ぶん)の意味(いみ)が分(わ)かります。,If you look up the words you do not understand you will understand the sentence.
+〜たら,if; when; after,宿題(しゅくだい)が終(お)わったら映画(えいが)を見(み)ましょう。,When we finish our homework let's watch a movie.
+〜たら,if; when; after,日本(にほん)に行(い)ったら大阪(おおさか)を訪(おとず)れたいです。,When I go to Japan I want to visit Osaka.
+〜たら,if; when; after,家(いえ)に帰(かえ)ったら電話(でんわ)してください。,When you get home please call me.
+〜なら,if that is the case,日本(にほん)に行(い)くならこのホテルがおすすめです。,If you are going to Japan I recommend this hotel.
+〜なら,if that is the case,日本語(にほんご)を勉強(べんきょう)したいならこのアプリを使(つか)ってみてください。,If you want to study Japanese try using this app.
+〜なら,if that is the case,明日(あした)試験(しけん)があるなら今日(きょう)復習(ふくしゅう)したほうがいいですよ。,If you have an exam tomorrow you should review today.

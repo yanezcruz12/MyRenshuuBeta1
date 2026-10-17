@@ -1,0 +1,45 @@
+文法(ぶんぽう),grammar,日本語(にほんご)の文法(ぶんぽう)を勉強(べんきょう)しています。,I am studying Japanese grammar.
+課(か),lesson; chapter,今日(きょう)は第八課(だいはちか)を勉強(べんきょう)します。,Today we will study Lesson 8.
+表(ひょう),table; chart,この表(ひょう)を見(み)て、二(ふた)つの表現(ひょうげん)を比(くら)べてください。,Look at this table and compare the two expressions.
+砕(くだ)けた,casual; informal,友達(ともだち)とは砕(くだ)けた話(はな)し方(かた)をすることが多(おお)いです。,I often use casual speech with my friends.
+簡単(かんたん)(な),simple; easy,先生(せんせい)が簡単(かんたん)な言葉(ことば)で説明(せつめい)してくれました。,The teacher explained it using simple words.
+丁寧(ていねい)(な),polite; courteous,初(はじ)めて会(あ)う人(ひと)には丁寧(ていねい)な言葉(ことば)を使(つか)います。,I use polite language with people I meet for the first time.
+例(れい),example,先生(せんせい)が分(わ)かりやすい例(れい)を出(だ)してくれました。,The teacher gave an easy-to-understand example.
+表現(ひょうげん),expression; way of expressing,この表現(ひょうげん)は日常会話(にちじょうかいわ)でよく使(つか)われます。,This expression is often used in everyday conversation.
+言語(げんご),language,世界(せかい)にはたくさんの言語(げんご)があります。,There are many languages in the world.
+相手(あいて),other person; partner; opponent,話(はな)す相手(あいて)によって言葉(ことば)の使(つか)い方(かた)を変(か)えます。,We change the way we use language depending on whom we are speaking to.
+必要(ひつよう)(な),necessary; need,この仕事(しごと)には日本語(にほんご)の能力(のうりょく)が必要(ひつよう)です。,Japanese language ability is necessary for this job.
+部分(ぶぶん),part; section; portion,分(わ)からない部分(ぶぶん)に線(せん)を引(ひ)いてください。,Please underline the parts you don't understand.
+比(くら)べる,to compare,男性(だんせい)と女性(じょせい)の話(はな)し方(かた)を比(くら)べました。,I compared the ways men and women speak.
+表(あらわ)れる,to appear; be reflected,話(はな)し方(かた)には、その人(ひと)の性格(せいかく)が表(あらわ)れることがあります。,A person's personality can be reflected in the way they speak.
+感(かん)じ,feeling; impression; sense,この言(い)い方(かた)は少(すこ)し冷(つめ)たい感(かん)じがします。,This way of saying it feels a little cold.
+適切(てきせつ)(な),appropriate; suitable,表現(ひょうげん)によって適切(てきせつ)な場面(ばめん)が違(ちが)います。,The appropriate situation differs depending on the expression.
+場面(ばめん),scene; situation; context,この表現(ひょうげん)は、友達(ともだち)と話(はな)す場面(ばめん)でよく使(つか)います。,This expression is often used in situations where you are talking with friends.
+観察(かんさつ),observation; to observe,日本人(にほんじん)の会話(かいわ)を観察(かんさつ)して、話(はな)し方(かた)の特徴(とくちょう)を調(しら)べました。,I observed Japanese conversations and studied the characteristics of their speech.
+特徴(とくちょう),characteristic; feature,この表現(ひょうげん)にはおもしろい特徴(とくちょう)があります。,This expression has an interesting characteristic.
+実(じつ)は,actually; in fact; the truth is,実(じつ)は、来月(らいげつ)日本(にほん)へ行(い)くことになりました。,Actually I'm going to Japan next month.
+年齢(ねんれい),age,話(はな)し方(かた)は年齢(ねんれい)によって違(ちが)うことがあります。,The way people speak can differ depending on age.
+男性(だんせい),man; male,あの男性(だんせい)は大学(だいがく)の先生(せんせい)です。,That man is a university professor.
+女性(じょせい),woman; female,その女性(じょせい)は日本語(にほんご)をとても上手(じょうず)に話(はな)します。,That woman speaks Japanese very well.
+文字(もじ),character; letter; writing,日本語(にほんご)では漢字(かんじ)、ひらがな、カタカナという文字(もじ)を使(つか)います。,Japanese uses characters called kanji hiragana and katakana.
+恋人(こいびと),romantic partner; boyfriend; girlfriend,週末(しゅうまつ)に恋人(こいびと)と映画(えいが)を見(み)に行(い)きました。,I went to see a movie with my partner on the weekend.
+男女(だんじょ),men and women; males and females,男女(だんじょ)で言葉(ことば)の使(つか)い方(かた)に違(ちが)いが見(み)られることがあります。,Differences in language use can sometimes be seen between men and women.
+合(あ)う,to match; suit; fit,場面(ばめん)に合(あ)う表現(ひょうげん)を選(えら)ぶことが大切(たいせつ)です。,It is important to choose an expression that suits the situation.
+最後(さいご),last; end; final,最後(さいご)に、今日(きょう)勉強(べんきょう)した文法(ぶんぽう)を復習(ふくしゅう)しましょう。,Finally let's review the grammar we studied today.
+はっきり,clearly; distinctly,自分(じぶん)の気持(きも)ちをはっきり伝(つた)えることが大切(たいせつ)です。,It is important to communicate your feelings clearly.
+誘(さそ)う,to invite; ask someone to join,友達(ともだち)を食事(しょくじ)に誘(さそ)いました。,I invited my friend to dinner.
+断(ことわ)る,to refuse; decline; turn down,忙(いそが)しかったので、友達(ともだち)の誘(さそ)いを断(ことわ)りました。,I declined my friend's invitation because I was busy.
+気分(きぶん),mood; feeling; condition,今日(きょう)はとても気分(きぶん)がいいです。,I'm in a very good mood today.
+大切(たいせつ)にする,to value; cherish; take good care of,家族(かぞく)との時間(じかん)を大切(たいせつ)にしています。,I value the time I spend with my family.
+連絡(れんらく)(する),contact; communication,駅(えき)に着(つ)いたら連絡(れんらく)してください。,Please contact me when you arrive at the station.
+こういう,this kind of; like this,こういう表現(ひょうげん)は友達(ともだち)との会話(かいわ)でよく使(つか)います。,This kind of expression is often used in conversations with friends.
+このよう(な),this kind of; such; like this,このような問題(もんだい)について考(かんが)える必要(ひつよう)があります。,We need to think about this kind of problem.
+複雑(ふくざつ)(な),complicated; complex,敬語(けいご)の使(つか)い方(かた)は少(すこ)し複雑(ふくざつ)です。,The use of honorific language is a little complicated.
+決(き)まり,rule; regulation; convention,日本語(にほんご)の敬語(けいご)にはいろいろな決(き)まりがあります。,There are various rules for Japanese honorific language.
+論文(ろんぶん),academic paper; thesis,日本語(にほんご)の表現(ひょうげん)について論文(ろんぶん)を書(か)いています。,I am writing a paper about Japanese expressions.
+普通(ふつう)(の),ordinary; normal; usual,これは普通(ふつう)の会話(かいわ)でよく使(つか)われる表現(ひょうげん)です。,This is an expression often used in ordinary conversation.
+お世話(せわ)になる,to be helped by; be indebted to; be under someone's care,日本(にほん)にいたとき、先生(せんせい)には大変(たいへん)お世話(せわ)になりました。,My teacher helped me a great deal when I was in Japan.
+それでは,well then; in that case; then,それでは、授業(じゅぎょう)を始(はじ)めましょう。,Well then let's begin the class.
+急(きゅう)(な),sudden; unexpected; steep,急(きゅう)な予定(よてい)の変更(へんこう)で、会議(かいぎ)に参加(さんか)できませんでした。,I couldn't attend the meeting because of a sudden change of plans.
+〇〇時過(じす)ぎ,a little past 〇〇 o'clock; after 〇〇 o'clock,昨日(きのう)は11時過(じす)ぎに家(いえ)に帰(かえ)りました。,Yesterday I got home a little after 11 o'clock.
+無理(むり)をする,to overdo it; push oneself too hard,疲(つか)れているときは無理(むり)をしないでください。,Please don't push yourself too hard when you are tired.

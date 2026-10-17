@@ -1,0 +1,34 @@
+このレストランでは、（　　　　）千円かかります。|At this restaurant it costs one thousand yen per person.|一人当たり
+このアルバイトでは、（　　　　）千五百円もらえます。|At this part-time job I earn fifteen hundred yen per hour.|一時間当たり
+（　　　　）漢字を五つ覚えるようにしています。|I try to learn five kanji per day.|一日当たり
+この車は、（　　　　）二十キロ走れます。|This car can travel twenty kilometers per liter.|一リットル当たり
+このアパートの家賃は、（　　　　）八万円です。|The rent for this apartment is eighty thousand yen per month.|一か月当たり
+
+この山の（　　　　）は、どのくらいですか。|How high is this mountain?|高さ
+日本の夏の（　　　　）にびっくりしました。|I was surprised by the heat of summer in Japan.|暑さ
+このかばんの（　　　　）を調べてください。|Please check the weight of this bag.|重さ
+この町の（　　　　）が好きです。|I like the quietness of this town.|静かさ
+大阪で生活して、電車の（　　　　）がよく分かりました。|Living in Osaka helped me understand how convenient trains are.|便利さ
+北海道の冬の（　　　　）は、想像以上でした。|The cold of winter in Hokkaido was greater than I imagined.|寒さ
+この部屋の（　　　　）は、一人暮らしにちょうどいいです。|The spaciousness of this room is just right for living alone.|広さ
+この問題の（　　　　）について、先生と話しました。|I talked with my teacher about the difficulty of this problem.|難しさ
+先生の（　　　　）に感謝しています。|I am grateful for my teacher's kindness.|優しさ
+日本語を勉強する（　　　　）を友達に伝えたいです。|I want to tell my friends about the enjoyment of studying Japanese.|楽しさ
+
+大阪（　　　　）、日本のいろいろな都市を訪れたいです。|I want to visit various cities in Japan including Osaka as a main example.|をはじめ
+先生（　　　　）、多くの人に日本語の勉強を助けてもらいました。|Many people including my teacher have helped me study Japanese.|をはじめ
+この店では、豆腐（　　　　）、いろいろな食べ物を売っています。|This shop sells various foods including tofu.|をはじめ
+水泳（　　　　）、いろいろなスポーツが好きです。|I like various sports especially swimming.|をはじめ
+私の家族は、母（　　　　）、みんな料理が好きです。|Everyone in my family including my mother likes cooking.|をはじめ
+
+時間（　　　　）あれば、毎日日本語を練習できます。|As long as I have time I can practice Japanese every day.|さえ
+お金（　　　　）あれば、日本に旅行できます。|As long as I have money I can travel to Japan.|さえ
+この本（　　　　）あれば、一人で勉強できます。|As long as I have this book I can study on my own.|さえ
+友達と（　　　　）話せれば、気分がよくなります。|As long as I can talk with a friend I feel better.|さえ
+先生に（　　　　）聞けば、答えが分かります。|If I just ask my teacher I will know the answer.|さえ
+
+日本での経験（　　　　）、作文を書きました。|I wrote an essay based on my experiences in Japan.|をもとに
+この映画は、本当の話（　　　　）作られました。|This movie was made based on a true story.|をもとに
+授業のノート（　　　　）、復習の問題を作りました。|I made review questions based on my class notes.|をもとに
+先生のアドバイス（　　　　）、勉強の計画を立てました。|I made a study plan based on my teacher's advice.|をもとに
+旅行中に撮った写真（　　　　）、絵を描きました。|I drew a picture based on photos I took during my trip.|をもとに

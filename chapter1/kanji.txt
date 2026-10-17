@@ -1,0 +1,61 @@
+紹介(しょうかい),introduction,先生が新しい学生を紹介しました。,The teacher introduced a new student.
+初(はじ)めて,for the first time,初めて日本へ行きました。,I went to Japan for the first time.
+石山(いしやま),family name,石山さんは日本語の先生です。,Mr. Ishiyama is a Japanese teacher.
+失礼(しつれい),rude behavior; excuse me,失礼ですが、お名前は何ですか。,Excuse me, what is your name?
+申(もう)す,to say (humble),私はクルスと申します。,My name is Cruz.
+教(おし)える,to teach,先生は日本語を教えています。,The teacher is teaching Japanese.
+留学(りゅうがく),study abroad,来年日本へ留学する予定です。,I plan to study abroad in Japan next year.
+宿題(しゅくだい),homework,宿題を終えました。,I finished my homework.
+多(おお)い,many; a lot,この町には公園が多いです。,There are many parks in this town.
+大学院生(だいがくいんせい),graduate student,兄は大学院生です。,My older brother is a graduate student.
+友達(ともだち),friend,友達と映画を見ました。,I watched a movie with my friend.
+大学院(だいがくいん),graduate school,大学院で研究しています。,I am doing research in graduate school.
+電気工学(でんきこうがく),electrical engineering,彼は電気工学を専攻しています。,He is majoring in electrical engineering.
+専攻(せんこう)する,to major in,私は日本語を専攻しています。,I am majoring in Japanese.
+趣味(しゅみ),hobby,私の趣味は読書です。,My hobby is reading.
+上手(じょうず),skillful,彼女はピアノが上手です。,She is good at playing the piano.
+興味(きょうみ),interest,日本文化に興味があります。,I am interested in Japanese culture.
+実(じつ)は,actually,実は日本へ行ったことがあります。,Actually, I have been to Japan.
+中学(ちゅうがく),junior high school,弟は中学生です。,My younger brother is a junior high school student.
+隣(となり),next door,隣の家に新しい人が来ました。,A new person moved into the house next door.
+家族(かぞく),family,私の家族は四人です。,There are four people in my family.
+飛行機(ひこうき),airplane,飛行機で東京へ行きました。,I went to Tokyo by airplane.
+座(すわ)る,to sit,ここに座ってください。,Please sit here.
+女性(じょせい),woman,その女性は先生です。,That woman is a teacher.
+話(はな)しかける,to speak to,駅で知らない人に話しかけられました。,A stranger spoke to me at the station.
+帰(かえ)る,to return home,夕方に家へ帰ります。,I return home in the evening.
+卒業(そつぎょう)する,to graduate,去年大学を卒業しました。,I graduated from university last year.
+勤(つと)める,to work for,父は銀行に勤めています。,My father works at a bank.
+休暇(きゅうか),vacation,夏休暇に旅行しました。,I traveled during summer vacation.
+取(と)る,to take,写真をたくさん取りました。,I took many pictures.
+日記(にっき),diary,毎日日記を書いています。,I write in my diary every day.
+成田空港(なりたくうこう),Narita Airport,成田空港に着きました。,I arrived at Narita Airport.
+着(つ)く,to arrive,駅に着きました。,I arrived at the station.
+同(おな)じ,same,私たちは同じクラスです。,We are in the same class.
+空港(くうこう),airport,空港で友達を迎えました。,I met my friend at the airport.
+迎(むか)える,to welcome,家族が私を迎えてくれました。,My family welcomed me.
+見(み)つかる,to be found,なくした財布が見つかりました。,My lost wallet was found.
+泊(と)める,to let stay overnight,友達を家に泊めました。,I let my friend stay overnight at my house.
+自分(じぶん),oneself,自分で宿題をしました。,I did the homework myself.
+時差(じさ)ぼけ,jet lag,日本に着いて時差ぼけになりました。,I got jet lag after arriving in Japan.
+眠(ねむ)る,to sleep,赤ちゃんが静かに眠っています。,The baby is sleeping quietly.
+近(ちか)く,nearby,近くにコンビニがあります。,There is a convenience store nearby.
+結局(けっきょく),in the end,結局家に帰りました。,In the end, I went home.
+歩(ある)く,to walk,毎日学校まで歩きます。,I walk to school every day.
+適当(てきとう),appropriate,適当な答えを書いてください。,Please write an appropriate answer.
+見(み)つける,to find,面白い本を見つけました。,I found an interesting book.
+引(ひ)っ越(こ)す,to move,来月引っ越します。,I am moving next month.
+今晩(こんばん),tonight,今晩友達と会います。,I will meet my friend tonight.
+知人(ちじん),acquaintance,知人から電話がありました。,I received a call from an acquaintance.
+若(わか)い,young,彼はまだ若いです。,He is still young.
+男性(だんせい),man,あの男性は医者です。,That man is a doctor.
+自己紹介(じこしょうかい),self-introduction,クラスで自己紹介をしました。,I gave a self-introduction in class.
+去年(きょねん),last year,去年日本へ行きました。,I went to Japan last year.
+仕方(しかた),way; method,その仕方を教えてください。,Please teach me that method.
+中年(ちゅうねん),middle-aged,中年の男性が歩いていました。,A middle-aged man was walking.
+互(たが)い,each other,私たちは互いに助け合っています。,We help each other.
+美(うつく)しい,beautiful,京都は美しい町です。,Kyoto is a beautiful city.
+娘(むすめ),daughter,私の娘は高校生です。,My daughter is a high school student.
+文法(ぶんぽう),grammar,日本語の文法を勉強しています。,I am studying Japanese grammar.
+考(かんが)え方(かた),way of thinking,彼の考え方は面白いです。,His way of thinking is interesting.
+違(ちが)う,to differ,私たちの意見は違います。,Our opinions differ.

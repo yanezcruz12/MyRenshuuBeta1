@@ -1,0 +1,68 @@
+例(れい),example,例を見てください。,Please look at the example.
+朝(あさ),morning,朝ご飯を食べました。,I ate breakfast.
+午後(ごご),afternoon,午後に授業があります。,I have class in the afternoon.
+変(へん),strange,変な顔をしました。,He made a strange face.
+意味(いみ),meaning,この言葉の意味が分かりません。,I do not understand the meaning of this word.
+下(さ)げる,to lower,頭を下げました。,I lowered my head.
+分(わ)かる,to understand,日本語が分かります。,I understand Japanese.
+目覚(めざ)まし時計(どけい),alarm clock,目覚まし時計が鳴りました。,The alarm clock rang.
+眠(ねむ)い,sleepy,今日は眠いです。,I am sleepy today.
+声(こえ),voice,大きな声で話してください。,Please speak in a loud voice.
+二時半(にじはん),two thirty,二時半に会いましょう。,Let’s meet at two thirty.
+難(むずか)しい,difficult,日本語は難しいです。,Japanese is difficult.
+大変(たいへん),terrible; difficult,今日は大変でした。,Today was difficult.
+外(そと),outside,外は寒いです。,It is cold outside.
+大雨(おおあめ),heavy rain,昨日は大雨でした。,Yesterday there was heavy rain.
+急(いそ)ぐ,to hurry,学校へ急ぎます。,I hurry to school.
+先(さき)に,ahead; first,先に行ってください。,Please go ahead.
+後(あと)で,later,また後で会いましょう。,Let’s meet again later.
+吉田(よしだ),family name,吉田さんは学生です。,Yoshida is a student.
+時代(じだい),period; age,高校時代の友人に会いました。,I met a friend from my high school days.
+出(だ)す,to take out; to offer,食事を出しました。,I offered a meal.
+僕(ぼく),I; me,僕は学生です。,I am a student.
+番号(ばんごう),number,電話番号を教えてください。,Please tell me your phone number.
+日米(にちべい),Japan and the U.S.,日米の文化は違います。,Japanese and American cultures are different.
+困(こま)る,to have difficulty,宿題に困っています。,I am having trouble with the homework.
+多分(たぶん),probably,多分明日行きます。,I will probably go tomorrow.
+代(か)わり,instead; replacement,その代わりに私が行きます。,I will go instead.
+当(あ)たる,to correspond to,これは英語のHelloに当たります。,This corresponds to “Hello” in English.
+相手(あいて),other person,相手の名前を忘れました。,I forgot the other person’s name.
+目上(めうえ),superior; senior,目上の人に丁寧に話します。,I speak politely to my superiors.
+友人(ゆうじん),friend,友人に会いました。,I met a friend.
+訳(やく)す,to translate,英語を日本語に訳します。,I translate English into Japanese.
+説明(せつめい),explanation,先生の説明は分かりやすいです。,The teacher’s explanation is easy to understand.
+例(たと)えば,for example,例えばこれはどうですか。,For example, how about this?
+食事(しょくじ),meal,友達と食事をしました。,I had a meal with my friend.
+対(たい)して,toward; in response to,それに対して答えました。,I answered in response to that.
+家族(かぞく),family,家族と住んでいます。,I live with my family.
+数日前(すうじつまえ),several days ago,数日前に友人に会いました。,I met my friend several days ago.
+決(き)まり文句(もんく),set phrase,これは決まり文句です。,This is a set phrase.
+用語(ようご),term,この用語を覚えてください。,Please memorize this term.
+方(ほう),way; direction,この方がいいです。,This way is better.
+客(きゃく),guest,客が来ました。,A guest came.
+子供(こども),child,子供が遊んでいます。,The child is playing.
+覚(おぼ)える,to memorize,漢字を覚えます。,I memorize kanji.
+大事(だいじ),important,これは大事です。,This is important.
+社会(しゃかい),society,社会について勉強します。,I study about society.
+教育(きょういく),education,教育は大事です。,Education is important.
+言葉(ことば),word; language,日本語の言葉を覚えます。,I memorize Japanese words.
+会釈(えしゃく),slight bow,会釈をしました。,I gave a slight bow.
+頭(あたま),head,頭が痛いです。,My head hurts.
+鳴(な)る,to ring,電話が鳴りました。,The phone rang.
+寮(りょう),dormitory,寮に住んでいます。,I live in a dormitory.
+部屋(へや),room,部屋を掃除しました。,I cleaned my room.
+同室(どうしつ),same room,友達と同室です。,I share the same room with my friend.
+寝(ね)る,to sleep,早く寝ます。,I go to bed early.
+終(お)わる,to finish,授業が終わりました。,Class ended.
+授業(じゅぎょう),class,授業に遅れました。,I was late to class.
+遅(おく)れる,to be late,電車が遅れました。,The train was late.
+降(ふ)る,to fall; to rain,雨が降っています。,It is raining.
+一郎(いちろう),male given name,一郎さんに会いました。,I met Ichiro.
+同級生(どうきゅうせい),classmate,同級生と話しました。,I talked with my classmate.
+質問(しつもん),question,先生に質問しました。,I asked the teacher a question.
+病気(びょうき),sickness,病気で学校を休みました。,I missed school because of sickness.
+非常(ひじょう)に,extremely,非常に寒いです。,It is extremely cold.
+寒(さむ)い,cold,今日は寒いです。,It is cold today.
+別(わか)れる,to part from,友人と別れました。,I parted from my friend.
+顔(かお),face,彼は変な顔をしました。,He made a strange face.
+一般的(いっぱんてき),general,これは一般的な言葉です。,This is a general word.

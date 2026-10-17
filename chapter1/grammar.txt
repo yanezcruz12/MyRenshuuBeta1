@@ -1,0 +1,49 @@
+Nで/からできる・できている,be made of N; consist of N / be made from N; be made out of N,チーズやヨーグルトは牛乳からできます。,Cheese and yogurt are made from milk.
+Nで/からできる・できている,be made of N; consist of N / be made from N; be made out of N,ワインはブドウからできますが、日本のお酒は何からできますか。,Wine is made from grapes; but what is Japanese sake made from?
+Nで/からできる・できている,be made of N; consist of N / be made from N; be made out of N,このカップはリサイクルペーパーでできている。,This cup is made of recycled paper.
+Adj + さ,the degree of how Adj; -ness; -ty,富士山の高さは3776メートルです。
+～ように,like; as if; as,これはイチゴのように見えるけれど、実は消しゴムなんです。,This looks like a strawberry; but it is actually an eraser.
+～ように,like; as if; as,小さいネコの声は、赤ちゃんが泣いているように聞こえます。,A small cat's voice sounds as if a baby is crying.
+～ように,like; as if; as,このレシピに書いてあるように作れば、おいしいドレッシングができるよ。,If you make it as written in this recipe; you can make a delicious dressing.
+～ように,like; as if; as,先生がおっしゃったように、言葉は毎日使わなければ上手にならないと思います。,As the teacher said; I think you cannot become good at a language unless you use it every day.
+～は～で有名だ/知られている,~ is famous/known for ~; ~ is famous/known because ~,このブランドのバッグはシンプルなデザインで有名だ。,This brand's bags are famous for their simple design.
+～は～で有名だ/知られている,~ is famous/known for ~; ~ is famous/known because ~,この温泉はサルが入りに来ることで有名です。,This hot spring is famous for monkeys coming to bathe in it.
+～は～で有名だ/知られている,~ is famous/known for ~; ~ is famous/known because ~,アレクサンダー・グラハム・ベルは電話を発明したことで知られている。,Alexander Graham Bell is known for inventing the telephone.
+V-masu / Adj(i)-stem + く,and; connects clauses in written language,昨日は友達とレストランで晩ご飯を食べ、その後、映画を見に行った。,Yesterday I ate dinner with a friend at a restaurant; and afterward went to see a movie.
+V-masu / Adj(i)-stem + く,and; connects clauses in written language,スミスさんは昼は大学で勉強し、夜はレストランでアルバイトをしている。,Smith studies at the university during the day and works part-time at a restaurant at night.
+V-masu / Adj(i)-stem + く,and; connects clauses in written language,この地方は夏がとても暑く、住みにくい。,Summers in this region are very hot; making it difficult to live there.
+～ことがある,there are times when ~; sometimes,文法の説明を読んでも分からないことがある。そんな時は先生に聞きに行くことにしている。,Sometimes I do not understand even after reading the grammar explanation. At those times I make a point of asking the teacher.
+～ことがある,there are times when ~; sometimes,晩ご飯はたいてい家で食べますが、時々レストランに行くこともあります。,I usually eat dinner at home; but sometimes I go to a restaurant.
+～ことがある,there are times when ~; sometimes,週末はたいてい友達に会うが、忙しくて会えないこともある。,I usually meet friends on weekends; but sometimes I am too busy to see them.
+～は/かは～によって違う/よる,differ depending on ~; depend on ~,性格は人によって違います。,Personality differs from person to person.
+～は/かは～によって違う/よる,differ depending on ~; depend on ~,何歳で車が運転できるかは、国によって違う。,The age at which you can drive differs by country.
+～は/かは～によって違う/よる,differ depending on ~; depend on ~,卒業するためにどんな授業を取らなくてはいけないかは、専攻によって違います。,The classes you must take to graduate differ depending on your major.
+～は/かは～によって違う/よる,differ depending on ~; depend on ~,旅行を楽しめるかどうかは、一緒に行く人によるでしょう。,Whether you can enjoy a trip probably depends on the person you go with.
+～始める,begin to V; begin V-ing,この地方では、11月になると雪が降り始めます。,In this region it begins to snow when November comes.
+～始める,begin to V; begin V-ing,私の弟は1歳の時、歩き始めました。そして、1歳半になった時、話し始めました。,My younger brother began walking when he was one; and began talking when he was one and a half.
+～始める,begin to V; begin V-ing,私は毎晩アルバイトがあるので、いつも10時過ぎに勉強を始める。,Because I work part-time every evening; I always begin studying after 10 o'clock.
+N1 + Particle + の + N2,noun + particle + の + noun,友達へのプレゼント,a present for a friend
+N1 + Particle + の + N2,noun + particle + の + noun,日本での仕事,a job in Japan
+N1 + Particle + の + N2,noun + particle + の + noun,上田さんとのミーティング,a meeting with Ueda-san
+N1 + Particle + の + N2,noun + particle + の + noun,8時からのパーティー,a party that starts at eight
+N1 + Particle + の + N2,noun + particle + の + noun,京都までの新幹線の切符,a Shinkansen ticket to Kyoto
+N1 + Particle + の + N2,noun + particle + の + noun,AIについての発表,a presentation about AI
+～は～と言われている,~ is said to be ~; it is said that ~,『となりのトトロ』は日本アニメの代表作だと言われている。,My Neighbor Totoro is said to be a representative work of Japanese animation.
+～は～と言われている,~ is said to be ~; it is said that ~,風邪をひいた時はビタミンCをたくさんとるといいと言われています。,It is said that taking plenty of vitamin C is good when you have a cold.
+～は～と言われている,~ is said to be ~; it is said that ~,世界で一番長い川はナイル川だと言われていますが、アマゾン川だと言う人もいる。,The Nile is said to be the longest river in the world; but some people say it is the Amazon.
+～とか～（とか）,~ and ~; ~ or ~; such as ~; things like ~,週末はたいてい洗濯とか掃除（とか）をします。,On weekends I usually do things like laundry and cleaning.
+～とか～（とか）,~ and ~; ~ or ~; such as ~; things like ~,フィンランド語とかトルコ語とか、みんながあまり勉強していない言葉を勉強してみたい。,I would like to study languages that not many people study; such as Finnish and Turkish.
+～とか～（とか）,~ and ~; ~ or ~; such as ~; things like ~,漢字を覚える時は、フラッシュカードのアプリを使うとか、スマホやタブレットで書く練習をするとかするといいですよ。,When memorizing kanji; it is good to do things like use a flashcard app and practice writing on a smartphone or tablet.
+～というのは～だ,~ means N/S; the meaning of ~ is N/S; what ~ means is N/S,パワハラというのは、パワー・ハラスメントのことです。,Pawahara means power harassment.
+～というのは～だ,~ means N/S; the meaning of ~ is N/S; what ~ means is N/S,「留学する」というのは、「外国の学校で勉強する」ということだ。,To study abroad means to study at a school in a foreign country.
+～というのは～だ,~ means N/S; the meaning of ~ is N/S; what ~ means is N/S,「やばい」というのはスラングで、「危ない」という意味だが、最近は「とてもいい」という意味でも使われるようになった。,Yabai is slang meaning dangerous; but recently it has also come to be used to mean very good.
+～だけでなく/じゃなく（て）、～も,not only ~; but also ~,「すみません」には、“I'm sorry”という意味だけでなく、“Excuse me”という意味もあります。,Sumimasen means not only I'm sorry but also Excuse me.
+～だけでなく/じゃなく（て）、～も,not only ~; but also ~,京都は古いお寺があるだけでなく、美しい景色でも有名です。,Kyoto not only has old temples; but is also famous for beautiful scenery.
+～だけでなく/じゃなく（て）、～も,not only ~; but also ~,その映画は面白いだけじゃなくて、音楽もいいよ。,That movie is not only interesting; the music is good too.
+～って,speaking of ~; as for ~,漢字って、覚えてもすぐ忘れちゃうね。,Speaking of kanji; even if you memorize them you forget them right away.
+～って,speaking of ~; as for ~,田中さんの嫌いな食べ物って、何？,As for food Tanaka-san dislikes; what is it?
+～って,speaking of ~; as for ~,宮崎駿のアニメって、いいよね。,Miyazaki Hayao's anime is good; isn't it?
+～って【言う/聞く/書く/etc.】,[say; tell; hear; write; etc.] that ~,田中さん、5時に来るって言ってたけど、まだ来ないね。,Tanaka-san said they would come at five; but they still have not come.
+～って【言う/聞く/書く/etc.】,[say; tell; hear; write; etc.] that ~,明日はテストがないって聞いたけど、本当？,I heard there is no test tomorrow; is that true?
+～って【言う/聞く/書く/etc.】,[say; tell; hear; write; etc.] that ~,ここに「静かにしてください」って書いてあるのが見えませんか。,Can't you see that it says Please be quiet here?
+～って【言う/聞く/書く/etc.】,[say; tell; hear; write; etc.] that ~,僕の名前は「つとむ」だけど、友達は「トム」って呼ぶんだ。,My name is Tsutomu; but my friends call me Tom.

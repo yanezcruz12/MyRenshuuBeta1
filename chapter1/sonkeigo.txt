@@ -1,0 +1,28 @@
+申す,おっしゃいます,先生は何とおっしゃいましたか。,What did the teacher say?
+教える,お教えになります,先生は日本語をお教えになります。,The teacher teaches Japanese.
+留学する,留学なさいます,先生は来年日本へ留学なさいます。,The teacher will study abroad in Japan.
+がんばる,がんばられます,先生はいつもがんばられます。,The teacher always does their best.
+専攻する,専攻なさいます,先生は日本文学を専攻なさっています。,The teacher is majoring in Japanese literature.
+座る,お座りになります,どうぞこちらにお座りください。,Please have a seat here.
+話しかける,お話しかけになります,先生は学生によくお話しかけになります。,The teacher often speaks to students.
+帰る,お帰りになります,先生はもうお帰りになりました。,The teacher has already gone home.
+卒業する,卒業なさいます,来年大学を卒業なさいます。,They will graduate from university next year.
+勤める,お勤めになります,銀行にお勤めになります。,They work at a bank.
+取る,お取りになります,先生がお取りになります。,The teacher will take it.
+着く,お着きになります,先生は午後三時にお着きになります。,The teacher will arrive at three o'clock.
+迎える,お迎えになります,空港でお迎えになります。,They will welcome someone at the airport.
+見つかる,お見つかりになります,お探しの本がお見つかりになりました。,The book you were looking for has been found.
+泊める,お泊めになります,お客様をお泊めになります。,They allow guests to stay overnight.
+眠る,お休みになります,先生はもうお休みになりました。,The teacher has already gone to sleep.
+歩く,お歩きになります,先生は公園をお歩きになります。,The teacher walks through the park.
+見つける,お見つけになります,先生がお見つけになります。,The teacher will find it.
+引っ越す,お引っ越しになります,来月お引っ越しになります。,They will move next month.
+びっくりする,驚かれます,その知らせに驚かれました。,They were surprised by the news.
+違う,異なります,私の考えとは異なります。,It differs from my opinion.
+若い,お若いです,先生はとてもお若いです。,The teacher is very young.
+美しい,お美しいです,その庭はお美しいです。,That garden is beautiful.
+上手（な）,お上手です,先生は日本語がお上手です。,The teacher is good at Japanese.
+有名（な）,有名でいらっしゃいます,その先生は有名でいらっしゃいます。,That teacher is famous.
+ていねい（な）,ていねいでいらっしゃいます,その方はていねいでいらっしゃいます。,That person is polite.
+適当（な）,適当でいらっしゃいます,その方法は適当でいらっしゃいます。,That method is appropriate.
+同じ,同じでいらっしゃいます,お考えは同じでいらっしゃいます。,Your opinion is the same.

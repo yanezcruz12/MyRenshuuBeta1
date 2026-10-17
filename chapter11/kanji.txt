@@ -1,0 +1,12 @@
+失(うしな)う,to lose,大切な写真を失いました。,I lost an important photo.
+失敗(しっぱい),failure,その失敗から多くのことを学びました。,I learned a lot from that failure.
+成人(せいじん),adult,成人として責任を持って行動します。,I act responsibly as an adult.
+成功(せいこう),success,毎日の練習が成功につながりました。,Daily practice led to success.
+数(かず)を数(かぞ)える,to count numbers,日本語で数を数える練習をしました。,I practiced counting numbers in Japanese.
+得(え)る,to obtain,日本での旅行から多くのことを得ました。,I gained a lot from my trip to Japan.
+発見(はっけん),discovery,旅行中に新しい発見がありました。,I made a new discovery during my trip.
+発明(はつめい),invention,この発明は私たちの生活を便利にしました。,This invention made our lives more convenient.
+一億(いちおく),one hundred million,この建物を建てるのに一億円かかりました。,It cost one hundred million yen to construct this building.
+続(つづ)ける,to continue,これからも日本語の勉強を続けます。,I will continue studying Japanese.
+現(あらわ)れる,to appear,空に虹が現れました。,A rainbow appeared in the sky.
+現在(げんざい),currently,現在、大学で日本語を勉強しています。,I am currently studying Japanese at university.

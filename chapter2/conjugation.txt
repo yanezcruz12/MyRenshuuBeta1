@@ -1,0 +1,12 @@
+日本人だ,日本人である,田中さんは日本人である。,Tanaka is Japanese.
+日本人ではない,日本人ではない,彼は日本人ではない。,He is not Japanese.
+子供だった,子供であった,私は子供であった。,I was a child.
+子供ではなかった,子供ではなかった,彼は子供ではなかった。,He was not a child.
+きれいだ,きれいである,この町はきれいである。,This town is beautiful.
+きれいではない,きれいではない,この町はきれいではない。,This town is not beautiful.
+安い,安い,この本は安い。,This book is cheap.
+安くない,安くない,この本は安くない。,This book is not cheap.
+食べる,食べる,私は寿司を食べる。,I eat sushi.
+食べない,食べない,私は肉を食べない。,I do not eat meat.
+食べた,食べた,昨日寿司を食べた。,I ate sushi yesterday.
+食べなかった,食べなかった,昨日肉を食べなかった。,I did not eat meat yesterday.
